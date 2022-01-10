@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = apointillart@gmail.com
+	name = Adrien Pointillart
